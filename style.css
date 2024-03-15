@@ -1,0 +1,46 @@
+.link ul{
+    list-style-type: none;
+    background-color: rgb(94, 94, 94);
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+    overflow:hidden;
+}
+
+.link a{
+    color:white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.link a:hover{
+    background-color:aqua;
+}
+
+.link li{
+    float:left;
+}
+
+.Competitive-Audit-Table{
+    text-align: left;
+    padding: 1;
+    background-color: black;
+}
+
+.Competitive-Audit-Table tbody,thead{
+    background-color: white;
+    
+}
+
+.Competitive-Audit-Table th{
+   text-align: center;
+}
+
+.greenTag{
+    background-color: rgb(46, 184, 46);
+}
+
+.yellowTag{
+    background-color: rgb(227, 227, 73);
+}
